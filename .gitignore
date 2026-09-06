@@ -1,0 +1,20 @@
+# Gradle y compilación
+.gradle/
+build/
+captures/
+.cxx/
+.kotlin/
+
+# Configuración de tu máquina
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Herramientas
+.claude/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
